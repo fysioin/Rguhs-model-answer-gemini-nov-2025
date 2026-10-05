@@ -13,9 +13,16 @@ Master of Physiotherapy (MPT) Paper IV examination -
 - `RGUHS_MPT_PaperIV_Model_Answers.html` - the complete model-answer document. Open it in any browser.
 - `index.html` - landing page used by the GitHub Pages site.
 
-## Features
+## Study Notes tool
+There are two ways to write study notes, and both save automatically in your browser:
+
+- **Floating "Study Notes" button** (bottom-right corner, always visible) - opens a side drawer listing every question (Q1-Q10) with its own notes box. A badge on the button shows how many questions you have notes for.
+- **"Notes" pill on each question heading** - opens a notes box right next to that question (beside it on wide screens, under the heading on narrow ones). The pill's number fills in once a question has notes.
+
+Notes typed in either place stay in sync, and panels you have used reopen automatically when you return.
+
+## Other features
 - Clean, readable layout with a minimal colour scheme: question headings, phase tables, and bullet/numbered protocols.
-- **Auto-saving notes** - every question heading has a small round **Notes** button showing the question number. Click it to open a notes box (it appears beside the question on wide screens, or just under the heading on narrow screens). Notes save automatically in the browser as you type; the button shows a filled dot once a question has notes, and the panel reopens automatically when you return.
 - **Night mode** - a light/dark toggle with high-contrast, readable text in both themes.
 - **Fit to screen** - toggle between a comfortable reading width and full-window width.
 - **Popup notes for difficult words** - 186 technical terms; hover or tap a dotted-underlined term to see a plain-English definition. Toggle them with the "Term notes" button.
