@@ -11,12 +11,16 @@ Master of Physiotherapy (MPT) Paper IV examination -
 
 ## Files
 - `RGUHS_MPT_PaperIV_Model_Answers.html` - the complete model-answer document. Open it in any browser.
+- `index.html` - landing page used by the GitHub Pages site.
 
 ## Features
-- Clean, readable layout: question headings, phase tables, and bullet/numbered protocols.
-- **Popup notes for difficult words** - 103 technical terms; hover or tap a purple-underlined term to see its definition. Toggle them with the "Term notes" button.
-- **Highlighting** - select any text and click a colour swatch (yellow / green / pink) to highlight it, with erase and clear-all. Highlights are saved in the browser.
-- Self-contained single file (no internet needed) and prints cleanly.
+- Clean, readable layout with a minimal colour scheme: question headings, phase tables, and bullet/numbered protocols.
+- **Auto-saving notes column** - each question has its own notes box on the right. Notes save automatically in the browser as you type.
+- **Night mode** - a light/dark toggle with high-contrast, readable text in both themes.
+- **Fit to screen** - toggle between a comfortable reading width and full-window width.
+- **Popup notes for difficult words** - 186 technical terms; hover or tap a dotted-underlined term to see a plain-English definition. Toggle them with the "Term notes" button.
+- **Highlighting** - select any text and click a colour swatch (yellow / green / pink) to highlight it, with erase and clear-all.
+- Self-contained single file (no internet needed); notes, highlights and preferences are stored locally in your browser. Prints cleanly.
 
 ## Topics covered
 1. Shoulder adhesive capsulitis - mobility interventions
